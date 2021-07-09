@@ -11,7 +11,7 @@ role: PhD candidate at CDT for Fluid Dyanmics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: CDT Fluid Dyanmics, at University of Leeds
-  url: https://www.stanford.edu/
+  url: https://fluid-dynamics.leeds.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -24,6 +24,7 @@ interests:
 
 # Education to show in About widget
 education:
+  courses:
   - course: Integrated MSc/PhD in Fluid Dyanmics
     institution: University of Leeds
     year: 2023
